@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        font-family: "Merriweather", serif;
+        color: white;
+        background-color: black;
+      }
+      blockquote {
+        margin: 0;
+      }
+      .main {
+        position: absolute;
+        top: 25%;
+        left: 50%;
+        max-width: 720px;
+        transform: translate(-50%, -50%);
+      }
+      #quote {
+        font-size: 21px;
+        font-style: italic;
+      }
+      #author {
+        font-size: 16px;
+        font-weight: 300;
+        color: #585961;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="main">
+        <svg
+          width="24"
+          height="18"
+          viewBox="0 0 24 18"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M14.9881 11.0988C14.9881 7.8946 15.7576 5.38603 17.2964 3.57312C18.8564 1.76021 21.0382 0.56917 23.8419 0V3.28854C21.7128 3.94203 20.2793 5.12253 19.5415 6.83004C19.1199 7.7365 18.9513 8.61133 19.0356 9.45455H24V17.7708H14.9881V11.0988ZM0 11.0988C0 7.93676 0.748353 5.43874 2.24506 3.60474C3.76285 1.77075 5.96574 0.56917 8.85375 0V3.28854C6.70356 3.96311 5.25955 5.12253 4.52174 6.7668C4.14229 7.63109 3.98419 8.52701 4.04743 9.45455H9.01186V17.7708H0V11.0988Z"
+            fill="darkgoldenrod"
+          />
+        </svg>
+
+        <blockquote>
+          <p id="quote">....</p>
+          <footer id="author">—...</footer>
+        </blockquote>
+      </div>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>
