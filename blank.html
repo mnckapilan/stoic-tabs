@@ -9,20 +9,25 @@
       rel="stylesheet"
     />
     <style>
+      * {
+        box-sizing: border-box;
+      }
       body {
         font-family: "Merriweather", serif;
         color: white;
         background-color: black;
       }
-      blockquote {
-        margin: 0;
+      .container {
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        padding: 96px 32px 0 32px;
       }
       .main {
-        position: absolute;
-        top: 25%;
-        left: 50%;
         max-width: 720px;
-        transform: translate(-50%, -50%);
+      }
+      blockquote {
+        margin: 0;
       }
       #quote {
         font-size: 21px;

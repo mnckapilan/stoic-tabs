@@ -8,10 +8,5 @@
   },
   "background": {
     "scripts": ["main.js"]
-  },
-  "content_scripts": [
-    {
-      "js": ["main.js"]
-    }
-  ]
+  }
 }
