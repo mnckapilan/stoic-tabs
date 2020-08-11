@@ -7,7 +7,7 @@
 
   const qutoes = [
     {
-      quote: "How does it help…to make troubles heavier by bemoaning them?",
+      quote: "How does it help… to make troubles heavier by bemoaning them?",
       author: "Seneca",
     },
     {
@@ -62,6 +62,81 @@
     {
       quote:
         "External things are not the problem. It's your assessment of them. Which you can erase right now.",
+      author: "Marcus Aurelius",
+    },
+    {
+      quote:
+        "Seek not the good in external things; seek it in yourselves.",
+      author: "Epictetus",
+    },
+    {
+      quote:
+        "The happiness of your life depends upong the quality of your thoughts.",
+      author: "Marcus Aurelius",
+    },
+    {
+      quote:
+        "Demand not that things happen as you wish, but wish them to happen as they do, and you will go on well.",
+      author: "Epictetus",
+    },
+    {
+      quote:
+        "As in a tale, so is life: not how long it is, but how good it is, is what matters.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "He is a wise man who deos not grieve for the things which he has not, but rejoices for those which he has",
+      author: "Epictetus",
+    },
+    {
+      quote:
+        "It is a rough road that leads to the heights of greatness.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "He suffers more than necessary, who suffers before it is necessary.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "Begin at once to live, and count each separate day as a separate life.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "He who is brave is free.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "Ignorance is the cause of fear.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "It is not the man who has little, but the man who craves more, that is poor.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "If what you have seems insufficient to you, then though you possess the world, you will yet be miserable.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "Only time can heal what reason cannot.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "They lose the day in expectation of the night, and the night in fear of the dawn.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.",
       author: "Marcus Aurelius",
     },
   ];

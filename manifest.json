@@ -2,11 +2,11 @@
   "manifest_version": 2,
   "name": "Stoic Tabs",
   "version": "0.1",
-  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
+  "icons": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
   "chrome_url_overrides": {
-    "newtab": "blank.html"
+    "newtab": "index.html"
   },
   "background": {
-    "scripts": ["main.js"]
+    "scripts": ["js/main.js"]
   }
 }
