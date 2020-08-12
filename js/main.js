@@ -2,7 +2,7 @@
   function getRandomInt(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min)) + min; //The maximum is exclusive and the minimum is inclusive
+    return Math.floor(Math.random() * (max - min)) + min;
   }
 
   const qutoes = [
@@ -71,7 +71,7 @@
     },
     {
       quote:
-        "The happiness of your life depends upong the quality of your thoughts.",
+        "The happiness of your life depends upon the quality of your thoughts.",
       author: "Marcus Aurelius",
     },
     {
