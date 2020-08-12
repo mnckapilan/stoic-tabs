@@ -86,7 +86,7 @@
     },
     {
       quote:
-        "He is a wise man who deos not grieve for the things which he has not, but rejoices for those which he has.",
+        "He is a wise man who deos not grieve for the things which he has not, but rejoices for those which he has",
       author: "Epictetus",
     },
     {
