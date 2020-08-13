@@ -5,7 +5,7 @@
     return Math.floor(Math.random() * (max - min)) + min;
   }
 
-  const qutoes = [
+  const quotes = [
     {
       quote: "How does it help… to make troubles heavier by bemoaning them?",
       author: "Seneca",
@@ -65,8 +65,7 @@
       author: "Marcus Aurelius",
     },
     {
-      quote:
-        "Seek not the good in external things; seek it in yourselves.",
+      quote: "Seek not the good in external things; seek it in yourselves.",
       author: "Epictetus",
     },
     {
@@ -86,12 +85,11 @@
     },
     {
       quote:
-        "He is a wise man who deos not grieve for the things which he has not, but rejoices for those which he has.",
+        "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has.",
       author: "Epictetus",
     },
     {
-      quote:
-        "It is a rough road that leads to the heights of greatness.",
+      quote: "It is a rough road that leads to the heights of greatness.",
       author: "Seneca",
     },
     {
@@ -105,13 +103,11 @@
       author: "Seneca",
     },
     {
-      quote:
-        "He who is brave is free.",
+      quote: "He who is brave is free.",
       author: "Seneca",
     },
     {
-      quote:
-        "Ignorance is the cause of fear.",
+      quote: "Ignorance is the cause of fear.",
       author: "Seneca",
     },
     {
@@ -125,8 +121,7 @@
       author: "Seneca",
     },
     {
-      quote:
-        "Only time can heal what reason cannot.",
+      quote: "Only time can heal what reason cannot.",
       author: "Seneca",
     },
     {
@@ -146,10 +141,10 @@
     const quote = document.getElementById("quote");
     const author = document.getElementById("author");
     if (quote && author) {
-      quote.innerText = qutoes[n].quote;
-      author.innerText = "—" + qutoes[n].author;
+      quote.innerText = quotes[n].quote;
+      author.innerText = "—" + quotes[n].author;
     }
   }
 
-  newQuote(qutoes);
+  newQuote(quotes);
 })();
