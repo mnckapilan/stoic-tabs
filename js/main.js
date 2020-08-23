@@ -52,7 +52,7 @@
     },
     {
       quote: "If a man knows not which port he sails, no wind is favorable.",
-      author: "Marcus Aurelius",
+      author: "Seneca",
     },
     {
       quote:
@@ -133,6 +133,41 @@
       quote:
         "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.",
       author: "Marcus Aurelius",
+    },
+    {
+      quote:
+        "Waste no more time arguing what a good man should be. Be One.",
+      author: "Marcus Aurelius",
+    },
+    {
+      quote:
+        "The best revenge is not to be like your enemy.",
+      author: "Marcus Aurelius",
+    },
+    {
+      quote:
+        "If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective — I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone.",
+      author: "Marcus Aurelius",
+    },
+    {
+      quote:
+        "Be tolerant with others and strict with yourself.",
+      author: "Marcus Aurelius",
+    },
+    {
+      quote:
+        "No person has the power to have everything they want, but it is in their power not to want what they don’t have, and to cheerfully put to good use what they do have.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "Nothing, to my way of thinking, is a better proof of a well ordered mind than a man’s ability to stop just where he is and pass some time in his own company.",
+      author: "Seneca",
+    },
+    {
+      quote:
+        "People are frugal in guarding their personal property; but as soon as it comes to squandering tim ethey are most wasteful of the one thing in which it is right to be stingy.",
+      author: "Seneca",
     },
   ];
 
